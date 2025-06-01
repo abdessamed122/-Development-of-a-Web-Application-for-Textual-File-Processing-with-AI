@@ -25,7 +25,7 @@ In today's information-heavy digital world, users often struggle to find relevan
 
 ### 📁 Repository Contents
 
-* `source-code/`: Full Python backend and Streamlit frontend implementation.
+* `app2.py/`: Full Python backend and Streamlit frontend implementation.
 * `PFE-license-Chatbot.pdf`: Full documentation of the project (converted from Word).
 * `poster.pdf`: Project presentation poster used during the final defense.
 * `README.md`: Setup instructions and user guide (you can adapt this content for the README too).
@@ -39,7 +39,7 @@ In today's information-heavy digital world, users often struggle to find relevan
 * **Degree**: Bachelor's in Computer Science – Information Systems
 
 ### 📬 Contact
-
+ouahabi.abdessamed@univ-bechar.dz
 For any inquiries or suggestions, feel free to reach out via GitHub Issues or email.
 
 ![WhatsApp Image 2025-05-31 at 9 32 57 PM (1)](https://github.com/user-attachments/assets/ff839754-dc5b-4c97-bdb5-2d50204791df)
