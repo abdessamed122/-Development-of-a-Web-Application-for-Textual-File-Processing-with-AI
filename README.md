@@ -37,9 +37,11 @@ In today's information-heavy digital world, users often struggle to find relevan
 * **University**: Tahri Mohamed University – Béchar
 * **Academic Year**: 2024/2025
 * **Degree**: Bachelor's in Computer Science – Information Systems
-
+## 🎓 Purpose
+To demonstrate the practical power of AI and NLP in making large unstructured documents (PDFs) accessible and searchable via natural dialogue.
 ### 📬 Contact
-ouahabi.abdessamed@univ-bechar.dz
+### ouahabi.abdessamed@univ-bechar.dz
+
 For any inquiries or suggestions, feel free to reach out via GitHub Issues or email.
 
 ![WhatsApp Image 2025-05-31 at 9 32 57 PM (1)](https://github.com/user-attachments/assets/ff839754-dc5b-4c97-bdb5-2d50204791df)
