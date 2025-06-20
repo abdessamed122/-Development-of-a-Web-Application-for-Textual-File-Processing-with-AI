@@ -43,6 +43,5 @@ To demonstrate the practical power of AI and NLP in making large unstructured do
 ### ouahabi.abdessamed@univ-bechar.dz
 
 For any inquiries or suggestions, feel free to reach out via GitHub Issues or email.
+![poster](https://github.com/user-attachments/assets/0be61104-d002-400c-88a0-9dfeb4661700)
 
-![WhatsApp Image 2025-05-31 at 9 32 57 PM (1)](https://github.com/user-attachments/assets/ff839754-dc5b-4c97-bdb5-2d50204791df)
-![WhatsApp Image 2025-05-31 at 9 32 57 PM](https://github.com/user-attachments/assets/9684b238-4d25-4038-af1f-b3209cce6d1a)
